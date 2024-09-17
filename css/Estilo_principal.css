@@ -1,0 +1,33 @@
+body {background-color: rgb(77, 115, 210);
+}
+div,h2 {
+    background-color: rgb(101, 101, 101);
+    border-color: black;
+    border: 10px;
+    text-align: center;
+}
+
+
+/* CLASES */
+.no-style{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.horizontal h2,li {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.horizontal h2,li,img,a {
+    margin: 0;
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    text-decoration:none;
+    padding: 8px;
+}
+.horizontal a:hover, .horizontal a:active {
+    background-color: rgb(255, 0, 0);
+}
