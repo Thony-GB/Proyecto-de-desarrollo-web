@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(90deg, rgb(0, 0, 0) 50%, rgb(50, 88, 91) 100%);
+}
+
+h2{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+p{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+    text-align: justify;
+    color: aliceblue;
+}
+ul{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 25px;
+    text-align: justify;
+    color: aliceblue;
+}
+ul li{
+    padding-left: 100px;
+    padding-right: 100px;
+    list-style-position: inside;
+}
